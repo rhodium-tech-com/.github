@@ -65,7 +65,7 @@ Welcome to **Rhodium Tech**’s GitHub corner! We’re an **incubation-driven R&
 
 ## 📈 GitHub Stats
 
-![Rhodium Tech GitHub stats](https://github-readme-stats.vercel.app/api?username=RhodiumTech&show_icons=true&theme=radical)
+![Rhodium Tech GitHub stats](https://github-readme-stats.vercel.app/api?username=RhodiumTech&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
